@@ -6,3 +6,10 @@ port = 10000
 serverAddress = "0.0.0.0"
 serverPort = 10000
 
+[theme]
+primaryColor = "#2D2D2D"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#EAEAEA"
+textColor = "#333333"
+font = "sans serif"
+
