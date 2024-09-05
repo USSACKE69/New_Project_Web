@@ -12,8 +12,17 @@ La aplicación web ofrece las siguientes funcionalidades:
 
 Los usuarios pueden seleccionar una casilla de verificación para mostrar cada una de estas visualizaciones en tiempo real.
 
+
+## URL de la aplicacion en Render 
+               https://new-project-web.onrender.com
+
+
+
 ## Cómo ejecutar la aplicación
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/USSACKE69/New_Project_Web.git
+
+
+
