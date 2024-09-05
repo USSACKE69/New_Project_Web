@@ -7,9 +7,7 @@ serverAddress = "0.0.0.0"
 serverPort = 10000
 
 [theme]
-primaryColor = "#2D2D2D"
-backgroundColor = "#FAFAFA"
-secondaryBackgroundColor = "#EAEAEA"
-textColor = "#333333"
-font = "sans serif"
-fontSize = 16
+primaryColor="#353430"
+backgroundColor="#eaf2f0"
+secondaryBackgroundColor="#a5bda9"
+textColor="#353c5e"
